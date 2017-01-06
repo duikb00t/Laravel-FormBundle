@@ -10,3 +10,7 @@ A Laravel package which allows you to setup fast and easy registration pages
 - [ ] Form builder
 - [ ] Confirmation emails
 - [ ] Localization
+
+## License
+
+This project and the Laravel framework are open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
