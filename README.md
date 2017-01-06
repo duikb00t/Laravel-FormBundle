@@ -1,5 +1,3 @@
-# WIP 
-
 # Laravel-FormBundle
 A Laravel package which allows you to setup fast and easy registration pages
 
